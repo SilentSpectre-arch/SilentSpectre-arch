@@ -1,16 +1,53 @@
-## Hi there 👋
+<!-- README.md for GitHub Profile -->
 
-<!--
-**SilentSpectre-arch/SilentSpectre-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Welcome to the realm of SilentSpectre👾</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=H4ck+the+Planet;Red+Team+Operative;Cyber+Ghost+Mode+On;We+are+the+Silent+Spectre&center=true&size=22&duration=4000" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+💀 Red Team enthusiast with a love for offensive security  
+💻 Passionate about Linux, networks, and code manipulation  
+🚩 On the path to exploit development and AV/EDR evasion  
+🎯 I don't guess, I reverse-engineer.
+
+---
+
+## 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+  <img src="https://img.icons8.com/color/48/kali-linux.png" width="40" alt="Kali Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://img.icons8.com/fluency/48/network-card.png" width="40" alt="Networking"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="SQL"/>
+
+</p>
+
+---
+
+## 📡 Certifications & Goals
+
+- ✅ CompTIA Network+ 
+- ✅ Cisco CCNA 
+- 🎯 OSCP (coming soon)
+
+
+---
+
+## ⚔️ Motto
+
+> _"We exploit the system not to break it... but to expose its truth."_  
+> — SilentSpectre 🕶️
+
+---
+
+## 🕳️ Contact Me in the Shadows
+
+```bash
+# You know how to reach me... if you know where to look. 🕵️‍♂️
