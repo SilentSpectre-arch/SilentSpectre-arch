@@ -32,11 +32,9 @@
 
 ## 📡 Certifications & Goals
 
-- ✅ CompTIA Network+ (in progress)
-- ✅ Cisco CCNA (in progress)
-- 🎯 OSCP (coming soon)
-- 🎯 AV/EDR Bypass Specialist
-- 🎯 C++ for Shellcoding and Exploit Dev
+- ✅ CompTIA Network+ 
+- ✅ Cisco CCNA 
+
 
 ---
 
