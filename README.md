@@ -1,6 +1,6 @@
 <!-- README.md for GitHub Profile -->
 
-<h1 align="center">Welcome to the realm of SilentSpectre👾</h1>
+<h1 align="center">Welcome to the realm of SilentSpectre 👾</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=H4ck+the+Planet;Red+Team+Operative;Cyber+Ghost+Mode+On;We+are+the+Silent+Spectre&center=true&size=22&duration=4000" />
@@ -26,17 +26,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://img.icons8.com/fluency/48/network-card.png" width="40" alt="Networking"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="SQL"/>
-
 </p>
 
 ---
 
 ## 📡 Certifications & Goals
 
-- ✅ CompTIA Network+ 
-- ✅ Cisco CCNA 
+- ✅ CompTIA Network+ (in progress)
+- ✅ Cisco CCNA (in progress)
 - 🎯 OSCP (coming soon)
-
+- 🎯 AV/EDR Bypass Specialist
+- 🎯 C++ for Shellcoding and Exploit Dev
 
 ---
 
@@ -51,3 +51,4 @@
 
 ```bash
 # You know how to reach me... if you know where to look. 🕵️‍♂️
+# Silently watching... always listening...
